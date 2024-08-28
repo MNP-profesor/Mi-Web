@@ -1,0 +1,6 @@
+#Se pueden especifiar tipos de archivos
+.env
+
+#Se pueden especificar rutas
+node_modules/
+config/gestor/alicante
