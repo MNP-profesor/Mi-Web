@@ -2,5 +2,5 @@
 .env
 
 #Se pueden especificar rutas
-node_modules/
-config/gestor/alicante
+#node_modules/
+#config/gestor/alicante
