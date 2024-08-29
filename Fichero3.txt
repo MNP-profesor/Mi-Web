@@ -1,1 +1,2 @@
 Fichero creado sobre la rama1
+Nuevo cambio tras etiquetar con v1-beta
